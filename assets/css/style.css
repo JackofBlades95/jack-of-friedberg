@@ -42,5 +42,7 @@ footer {
     position: fixed;
     display: flex;
     list-style-type: none;
+    width: 50%;
+    height: 30%;
 
 }
