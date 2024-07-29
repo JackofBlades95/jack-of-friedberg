@@ -41,5 +41,6 @@ footer {
     color: aliceblue;
     position: fixed;
     display: flex;
+    list-style-type: none;
 
 }
