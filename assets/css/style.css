@@ -13,19 +13,23 @@ body {
 
 header {
     background-color: black;
+    font-family: Lora, sans-serif;
+    color:aliceblue;
 
 }
 
 /* Main content */
 
 main {
-    background-color: brown;
+    background-color: black;
+    color:aliceblue;
 
 }
 
 /* footer */
 
 footer {
-    background-color: aqua;
+    background-color: black;
+    color: aliceblue;
 
 }
