@@ -12,17 +12,20 @@ body {
 /* Header */
 
 header {
+    background-color: black;
 
 }
 
 /* Main content */
 
 main {
+    background-color: brown;
 
 }
 
 /* footer */
 
 footer {
+    background-color: aqua;
 
 }
