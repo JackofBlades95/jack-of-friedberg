@@ -2,8 +2,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 /* General Styles */
+
 body {
     margin: 0;
     font-family: Lora, sans-serif;
+
+}
+
+/* Header */
+
+header {
+
+}
+
+/* Main content */
+
+main {
+
+}
+
+/* footer */
+
+footer {
 
 }
