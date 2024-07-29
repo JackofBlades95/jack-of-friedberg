@@ -40,5 +40,6 @@ footer {
     background-color: black;
     color: aliceblue;
     position: fixed;
+    display: flex;
 
 }
