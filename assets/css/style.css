@@ -33,4 +33,5 @@ main {
 
 footer {
     flex-shrink: 0;
+    background-color: black;
 }
