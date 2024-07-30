@@ -4,8 +4,8 @@
 /* General Styles */
 
 body {
-    min-height: 100vh;
-    display: flex;
+    min-height: 100vh
+    display: flex:
     font-family: Lora, sans-serif;
     flex-direction: column;
 
@@ -14,7 +14,6 @@ body {
 /* Header */
 
 header {
-    display: flex;
     background-color: black;
     font-family: Lora, sans-serif;
     color: aliceblue;
@@ -24,7 +23,7 @@ header {
 /* Main content */
 
 main {
-    display: flex;
+    
 
 }
 
@@ -34,13 +33,9 @@ main {
 
 /* footer */
 
-footer {
-    margin-top: auto;
-    background-color: black;
-    color: white:
-}
-
 #social-media {
     text-align: center;
     justify-content: space-evenly;
+    display: flex;
+    padding: 20px 0;
 }
