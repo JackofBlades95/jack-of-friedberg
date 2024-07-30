@@ -32,5 +32,6 @@ main {
 /* footer */
 
 footer {
-   background-color: black;
+   flex-shrink: 0;
+   background-color: black;dd
 }
