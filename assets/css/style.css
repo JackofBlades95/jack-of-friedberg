@@ -28,7 +28,8 @@ header {
 
 .nav a {
     float: left;
-    color: white
+    color: white;
+    text-align: center;
 }
 
 
