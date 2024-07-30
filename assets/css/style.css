@@ -23,9 +23,13 @@ header {
 
 .nav {
     background-color: black;
-    
-
+    overflow: hidden;
 }
+
+.nav a {
+    
+}
+
 
 
 /* Main content */
