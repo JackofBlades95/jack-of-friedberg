@@ -40,4 +40,5 @@ footer {
     list-style-type: none;
     color: white;
     text-align: center;
+    display: flex;
 }
