@@ -28,7 +28,9 @@ main {
 
 }
 
-#me {}
+#me {
+
+}
 
 /* footer */
 
@@ -36,5 +38,9 @@ footer {
     margin-top: auto;
     background-color: black;
     color: white:
-    
+}
+
+#social-media {
+    text-align: center;
+    justify-content: space-evenly;
 }
