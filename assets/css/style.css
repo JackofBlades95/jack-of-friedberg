@@ -35,3 +35,7 @@ footer {
     flex-shrink: 0;
     background-color: black;
 }
+
+#social-media {
+    list-style-type: none;
+}
