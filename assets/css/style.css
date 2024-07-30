@@ -4,10 +4,8 @@
 /* General Styles */
 
 body {
-    min-height: 100vh
-    display: flex:
-    font-family: Lora, sans-serif;
-    flex-direction: column;
+    
+   
 
 }
 
@@ -27,15 +25,9 @@ main {
 
 }
 
-#me {
-
-}
 
 /* footer */
 
-#social-media {
-    text-align: center;
-    justify-content: space-evenly;
-    display: flex;
-    padding: 20px 0;
+footer {
+    
 }
