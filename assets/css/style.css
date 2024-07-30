@@ -4,36 +4,37 @@
 /* General Styles */
 
 body {
-    margin: 0;
+    min-height: 100vh;
+    display: flex;
     font-family: Lora, sans-serif;
+    flex-direction: column;
 
 }
 
 /* Header */
 
 header {
+    display: flex;
     background-color: black;
     font-family: Lora, sans-serif;
-    color:aliceblue;
+    color: aliceblue;
 
 }
 
 /* Main content */
 
 main {
-      
+    display: flex;
 
 }
 
-#me {
-
-}
+#me {}
 
 /* footer */
 
-#social-media {
+footer {
+    margin-top: auto;
     background-color: black;
     color: white:
     
-
 }
