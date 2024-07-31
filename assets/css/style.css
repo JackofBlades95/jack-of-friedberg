@@ -34,7 +34,7 @@ nav ul {
 }
 
 nav li {
-    
+    float: left;
 }
 
 /* Main content */
