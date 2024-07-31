@@ -23,26 +23,11 @@ header {
 
 .nav {
     background-color: black;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+}
+
+nav ul {
     
 }
-
-nav li {
-    float: left;
-    
-}
-
-nav a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
 
 /* Main content */
 
