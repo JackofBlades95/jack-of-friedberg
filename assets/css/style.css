@@ -26,7 +26,7 @@ header {
 }
 
 nav ul {
-    
+    list-style-type: none;
 }
 
 /* Main content */
@@ -40,6 +40,6 @@ main {
 /* footer */
 
 footer {
-   flex-shrink: 0;
-   background-color: black;
+    flex-shrink: 0;
+    background-color: black;
 }
