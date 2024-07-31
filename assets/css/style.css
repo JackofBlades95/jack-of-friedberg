@@ -23,18 +23,25 @@ header {
 
 .nav {
     background-color: black;
+    list-style: none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    
 }
 
-.nav a {
+nav li {
     float: left;
+    
+}
+
+nav a {
+    display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: large;
 }
-
 
 
 /* Main content */
@@ -49,5 +56,5 @@ main {
 
 footer {
    flex-shrink: 0;
-   background-color: black;dd
+   background-color: black;
 }
