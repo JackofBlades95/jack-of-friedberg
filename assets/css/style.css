@@ -56,15 +56,10 @@ nav li a:hover {
 
 main {
     flex: 1 0 auto;
-
-
-}
-
-section { 
-    
-
+    background: url("../images/jackmobile.jpg");
 
 }
+
 
 
 /* footer */
