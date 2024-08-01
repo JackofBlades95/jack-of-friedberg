@@ -52,18 +52,6 @@ nav li a:hover {
 
 }
 
-/* Home content */
-
-.home {
-    flex: 1 0 auto;
-    background: url("../images/jackmobile.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-
-}
-
-
 /* footer */
 
 footer {
@@ -82,3 +70,25 @@ footer li a {
     color: lightgray;
 
 }
+
+/* Home content */
+
+.home {
+    flex: 1 0 auto;
+    background: url("../images/jackmobile.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+/* About */
+
+
+/* Gallery */
+
+
+/* Contact */
+
+
+
