@@ -92,6 +92,7 @@ footer li a {
 
 /* Gallery */
 .gallery {
+    flex: 1 0 auto;
     
 
 }
