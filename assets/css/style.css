@@ -52,9 +52,9 @@ nav li a:hover {
 
 }
 
-/* Main content */
+/* Home Main content */
 
-main {
+.home {
     flex: 1 0 auto;
     background: url("../images/jackmobile.jpg");
     background-repeat: no-repeat;
@@ -62,6 +62,8 @@ main {
     background-size: cover;
 
 }
+
+
 
 
 
