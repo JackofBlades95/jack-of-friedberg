@@ -84,6 +84,7 @@ footer li a {
 
 /* About */
 .about {
+    flex: 1 0 auto;
     
 
 }
