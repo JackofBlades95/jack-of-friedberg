@@ -9,6 +9,7 @@ body {
     min-height: 100vh;
 }
 
+
 /* Header */
 
 header {
@@ -35,7 +36,6 @@ nav ul {
 
 nav li {
     float: left;
-
 }
 
 nav li a {
@@ -48,7 +48,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: beige;
+    background-color: lightgrey;
 
 }
 
@@ -56,6 +56,13 @@ nav li a:hover {
 
 main {
     flex: 1 0 auto;
+
+
+}
+
+section {
+    
+
 
 }
 
@@ -76,7 +83,5 @@ footer ul {
 
 footer li a {
     color: lightgray;
-    
+
 }
-
-
