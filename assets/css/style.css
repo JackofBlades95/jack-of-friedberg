@@ -52,7 +52,7 @@ nav li a:hover {
 
 }
 
-/* Home Main content */
+/* Home content */
 
 .home {
     flex: 1 0 auto;
@@ -62,9 +62,6 @@ nav li a:hover {
     background-size: cover;
 
 }
-
-
-
 
 
 /* footer */
