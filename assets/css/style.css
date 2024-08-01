@@ -58,6 +58,7 @@ main {
     flex: 1 0 auto;
     background: url("../images/jackmobile.jpg");
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
