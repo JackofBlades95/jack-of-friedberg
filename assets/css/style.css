@@ -98,6 +98,7 @@ footer li a {
 
 .about-me {
     display: flex;
+    align-items: center;
 }
 
 
