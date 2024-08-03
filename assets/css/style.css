@@ -86,15 +86,11 @@ footer li a {
 /* About */
 .about {
     flex: 1 0 auto;
-    
+    background-color: lightgrey;
+
 
 }
 
-.about {
-    flex: 1 0 auto;
-    
-
-}
 
 .about-me {
     display: flex;
@@ -106,20 +102,20 @@ footer li a {
 .image {
     max-width: 100%;
     max-height: 100%;
-    
+
 }
 
 .text {
     font-size: 20px;
     padding-left: 20px;
-    
+
 }
 
 
 /* Gallery */
 .gallery {
     flex: 1 0 auto;
-    
+
 }
 
 
@@ -132,6 +128,3 @@ footer li a {
     background-size: cover;
 
 }
-
-
-
