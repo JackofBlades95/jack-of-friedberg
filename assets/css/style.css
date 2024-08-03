@@ -104,6 +104,7 @@ footer li a {
     flex: 1 0 auto;
     background: url("../images/contact.jpg");
     background-repeat: no-repeat;
+    background-position: center;
 
 }
 
