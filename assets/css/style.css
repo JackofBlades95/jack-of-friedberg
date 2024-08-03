@@ -103,6 +103,7 @@ footer li a {
 .contact {
     flex: 1 0 auto;
     background: url("../images/contact.jpg");
+    background-repeat: no-repeat;
 
 }
 
