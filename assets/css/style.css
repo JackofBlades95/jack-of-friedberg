@@ -97,9 +97,7 @@ footer li a {
 }
 
 .about-me {
-    
-    
-
+    display: flex;
 }
 
 
