@@ -119,7 +119,7 @@ footer li a {
 }
 
 .photos {
-    
+    display: flex;
 
 }
 
