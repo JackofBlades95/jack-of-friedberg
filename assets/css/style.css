@@ -16,7 +16,7 @@ body {
 header {
     background-color: black;
     font-family: Lora, sans-serif;
-    color: lightgrey;
+    color: white;
     font-size: x-large;
     padding: 30px;
     text-align: center;
@@ -68,7 +68,7 @@ footer ul {
 }
 
 footer li a {
-    color: lightgray;
+    color: white;
 
 }
 
