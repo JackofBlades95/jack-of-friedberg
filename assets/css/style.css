@@ -81,6 +81,25 @@ footer li a {
 
 }
 
+.home-me {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.home-image {
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.home-text {
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+
 /* About */
 .about {
     flex: 1 0 auto;
