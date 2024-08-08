@@ -132,15 +132,14 @@ footer li a {
 /* Gallery */
 .gallery {
     flex: 1 0 auto;
+    background-color: lightgrey;
 
 }
 
 .photos {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-   
-
+    flex-direction: column;
+    
 }
 
 
