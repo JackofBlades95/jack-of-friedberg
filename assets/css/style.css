@@ -189,7 +189,7 @@ footer li a {
 
 
 /* About Page */
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
     .about-me {
         display: flex;
         flex-direction: column;
