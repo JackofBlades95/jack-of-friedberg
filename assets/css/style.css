@@ -234,3 +234,15 @@ footer li a {
 
 
 }
+
+
+@media screen and (width: 1024px) {
+    .form {
+        margin-left: 350px;
+        margin-right: 350px
+
+
+    }
+
+
+}
