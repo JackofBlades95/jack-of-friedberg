@@ -168,3 +168,17 @@ footer li a {
     color: black;
 
 }
+
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+    .home-me {
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+
+}
