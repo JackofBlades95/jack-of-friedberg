@@ -197,3 +197,16 @@ footer li a {
 
 
 }
+
+
+/* Contac Page */
+@media screen and (min-width: 1440px) {
+    .form {
+        margin-left: 600px;
+        margin-right: 600px
+
+
+    }
+
+
+}
