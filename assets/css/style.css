@@ -172,8 +172,23 @@ footer li a {
 
 /* Media Queries */
 
+/* Home Page */
+
 @media screen and (max-width: 768px) {
     .home-me {
+        display: flex;
+        flex-direction: column;
+
+
+    }
+
+
+}
+
+
+/* About Page */
+@media screen and (max-width: 425px) {
+    .about-me {
         display: flex;
         flex-direction: column;
 
