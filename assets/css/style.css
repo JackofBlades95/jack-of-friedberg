@@ -172,6 +172,8 @@ footer li a {
 
 /* Media Queries */
 
+
+
 /* Home Page */
 
 @media screen and (max-width: 768px) {
@@ -204,32 +206,16 @@ footer li a {
     .form {
         margin-left: 600px;
         margin-right: 600px
-
-
     }
 
 
 }
-
-@media screen and (min-width: 1440px) {
-    .form {
-        margin-left: 600px;
-        margin-right: 600px
-
-
-    }
-
-
-}
-
 
 
 @media screen and (width: 768px) {
     .form {
         margin-left: 250px;
         margin-right: 250px
-
-
     }
 
 
@@ -240,8 +226,6 @@ footer li a {
     .form {
         margin-left: 350px;
         margin-right: 350px
-
-
     }
 
 
