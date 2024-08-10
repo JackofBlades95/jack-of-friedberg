@@ -199,11 +199,35 @@ footer li a {
 }
 
 
-/* Contac Page */
+/* Contact Page */
 @media screen and (min-width: 1440px) {
     .form {
         margin-left: 600px;
         margin-right: 600px
+
+
+    }
+
+
+}
+
+@media screen and (min-width: 1440px) {
+    .form {
+        margin-left: 600px;
+        margin-right: 600px
+
+
+    }
+
+
+}
+
+
+
+@media screen and (width: 768px) {
+    .form {
+        margin-left: 250px;
+        margin-right: 250px
 
 
     }
