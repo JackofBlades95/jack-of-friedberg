@@ -17,11 +17,20 @@ header {
     background-color: black;
     font-family: Lora, sans-serif;
     color: white;
-    font-size: x-large;
+    font-size: 50px;
     padding: 30px;
     text-align: center;
 
 }
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: Lora, sans-serif;
+}
+
+/* Navbar */
 
 .nav {
     background-color: black;
