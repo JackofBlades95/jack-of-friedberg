@@ -101,6 +101,7 @@ footer li a {
 }
 
 /* About */
+
 .about {
     flex: 1 0 auto;
     background-color: lightgrey;
@@ -130,6 +131,7 @@ footer li a {
 
 
 /* Gallery */
+
 .gallery {
     flex: 1 0 auto;
     background-color: lightgrey;
@@ -146,13 +148,16 @@ footer li a {
 
 .photos {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
 
-    
 }
 
 
 
 /* Contact */
+
 .contact {
     flex: 1 0 auto;
     background: url("../images/contact.jpg");
@@ -181,8 +186,6 @@ footer li a {
 
 /* Media Queries */
 
-
-
 /* Home Page */
 
 @media screen and (max-width: 768px) {
@@ -198,6 +201,7 @@ footer li a {
 
 
 /* About Page */
+
 @media screen and (max-width: 768px) {
     .about-me {
         display: flex;
@@ -211,6 +215,7 @@ footer li a {
 
 
 /* Contact Page */
+
 @media screen and (min-width: 1440px) {
     .form {
         margin-left: 600px;
