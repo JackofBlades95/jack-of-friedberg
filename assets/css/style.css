@@ -250,7 +250,7 @@ footer li a {
 
 /* Gallery */
 
-@media screen and (max-width: 768px; ) {
+@media screen and (max-width: 768px) {
 
     header {
         font-size: 30px;
@@ -293,7 +293,7 @@ footer li a {
 
 }
 
-@media screen and (max-width: 768px; ) {
+@media screen and (max-width: 768px) {
 
     header {
         font-size: 30px;
