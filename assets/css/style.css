@@ -156,7 +156,9 @@ footer li a {
 
 
 .image-grid {
-    
+    display: block;
+    padding: 15px;
+    justify-content: center;
     
 
 }
