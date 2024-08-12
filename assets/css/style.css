@@ -136,9 +136,17 @@ footer li a {
 
 }
 
+.gallery-text {
+    display: flex;
+    color: black;
+    justify-content: center;
+    
+}
+
 
 .photos {
     display: flex;
+
     
 }
 
