@@ -239,8 +239,27 @@ footer li a {
 
     }
 
+    header {
+        font-size: 30px;
+
+
+    }
+
 
 }
+
+/* Gallery */
+
+@media screen and (max-width: 768px; ) {
+
+    header {
+        font-size: 30px;
+
+
+    }
+
+}
+
 
 
 /* Contact Page */
@@ -271,5 +290,15 @@ footer li a {
         margin-right: 350px
     }
 
+
+}
+
+@media screen and (max-width: 768px; ) {
+
+    header {
+        font-size: 30px;
+
+
+    }
 
 }
