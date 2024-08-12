@@ -136,11 +136,12 @@ footer li a {
 
 }
 
+
 .photos {
     display: flex;
-    flex-direction: column;
-
+    
 }
+
 
 
 /* Contact */
