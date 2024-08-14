@@ -196,6 +196,34 @@ footer li a {
 
 /* Media Queries */
 
+@media screen and (min-width: 480px) {
+    .home-text {
+        margin-left: 25vw;
+        margin-right: 25vw;
+        margin-top: 2vw;
+        font-size: 10px;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+    .home-text {
+        margin-left: 30vw;
+        margin-right: 30vw;
+        margin-top: 1vw;
+        font-size: 15px;
+    }
+  }
+
+  @media screen and (min-width: 1440px) {
+    .home-text {
+        display: flex;
+        margin-left: 30vw;
+        margin-right: 30vw;
+        margin-top: 1vw;
+        font-size: 15px;
+    }
+  }
+
 @media screen and (max-width: 768px) {
     .home-me {
         display: flex;
