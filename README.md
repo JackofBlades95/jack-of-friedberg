@@ -11,5 +11,8 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 
 <details>
 <summary>Click here for table of Contents</summary>
+[Screenshots of Jack of Friedberg] (#screenshots)
 
 </details>
+
+## Screenshots
