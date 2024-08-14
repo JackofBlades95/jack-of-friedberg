@@ -84,7 +84,7 @@ footer li a {
 
 .home {
     flex: 1 0 auto;
-    background: url("../images/schloss2.jpg");
+    background: url("../images/grunau0.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -196,12 +196,23 @@ footer li a {
 
 /* Media Queries */
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 320px) {
     .home-text {
         margin-left: 25vw;
         margin-right: 25vw;
         margin-top: 2vw;
-        font-size: 10px;
+        font-size: 11px;
+    }
+  }
+
+
+  @media screen and (width: 768px) {
+    .home-text {
+        align-content: flex-start;
+        margin-left: 30vw;
+        margin-right: 30vw;
+        margin-top: 1vw;
+        font-size: 20px;
     }
   }
 
@@ -210,17 +221,16 @@ footer li a {
         margin-left: 30vw;
         margin-right: 30vw;
         margin-top: 1vw;
-        font-size: 15px;
+        font-size: 20px;
     }
   }
 
   @media screen and (min-width: 1440px) {
     .home-text {
-        display: flex;
-        margin-left: 30vw;
-        margin-right: 30vw;
+        margin-left: 35vw;
+        margin-right: 35vw;
         margin-top: 1vw;
-        font-size: 15px;
+        font-size: 20px;
     }
   }
 
