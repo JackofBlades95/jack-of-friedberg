@@ -19,7 +19,7 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 Below are four screenshots of the different pages that make up Jack of Friedberg, created using the "Am I Responsive" website.
 
 | Screenshot 1 |
-| ![screenshot] ()
+| ![screenshot] (https://github.com/JackofBlades95/jack-of-friedberg/blob/main/Am%20I%20Responsive1.PNG?raw=true)
 
 ## User Stories
 
