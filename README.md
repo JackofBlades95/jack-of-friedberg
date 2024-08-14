@@ -24,3 +24,7 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 ## UX Design
 
 ### Color Scheme
+
+### First time site users
+
+### Returning site users
