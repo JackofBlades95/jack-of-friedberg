@@ -19,12 +19,15 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 
 ## User Stories
 
+### First time site users
+
+### Returning site users
+
 ## Wireframes
 
 ## UX Design
 
 ### Color Scheme
 
-### First time site users
+### Typography
 
-### Returning site users
