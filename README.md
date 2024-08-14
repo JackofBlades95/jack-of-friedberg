@@ -39,10 +39,12 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 
 ## Features
 
+## Tools & Technologies Used
+
 ## Testing
 
 ## Deployment
 
 ## Credits
 
-## Acknowledgements
+### Acknowledgements
