@@ -37,3 +37,8 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 
 ### Typography
 
+## Features
+
+## Testing
+
+## Deployment
