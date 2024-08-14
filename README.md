@@ -6,3 +6,10 @@
 * The site has social media links and a contact form to make it easy to get in contact with Jack of Friedberg.
 * The site is targeted towards people who are interested in getting involved in medieval reeactment or looking to specifically
 inquire or contact Jack of Friedberg for battles, tournaments, or for show fighting at events.
+
+## Table of Contents
+
+<details>
+<summary>Click here for table of Contents</summary>
+
+</details>
