@@ -52,7 +52,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ### Desktop Wireframes
 
-## UX Design
+## Design
 
 ### Color Scheme
 
@@ -81,6 +81,14 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 * Jack of Friedberg has social media links in the footer.
 
 ## Tools & Technologies Used
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [CSS Flex Box](https://www.w3schools.com/css/css3_flexbox.asp)
+* [Google Fonts](https://fonts.google.com/)
+* [Favicon](https://en.wikipedia.org/wiki/Favicon)
+* [Github](https://github.com/)
+
 
 ## Testing
 
