@@ -36,9 +36,6 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 * As a new site user, I would like to know how to get in contact with Jack of Friedberg, if im interested in reenactment or booking him for an event or show.
 * As a new site user, I would like to the site to be easy to navigate.
 
-## Wireframes
-
-
 ## Design
 
 ### Color Scheme
@@ -48,7 +45,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 * #000000 for : header, footer, text.
 * #FFFFFF for : social media icons, header text.
 * #D3D3D3 for : background color.
-* Colors were designed to match the colors of Jack of Friedberg during reeanctment.
+* Colors were designed to match the colors of Jack of Friedberg during reenactment.
 
 ### Typography
 
@@ -79,7 +76,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ## Testing
 
-* Testing was conducted through HTML, CSS, validators and lighthouse.
+* Testing was conducted through HTML, CSS, validators and Lighthouse.
 * Below the links are screenshots.
 * [W3C HTML](https://validator.w3.org/#validate_by_input)
 * [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
@@ -137,7 +134,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 * Below is a list of credits to tools or people that helped me with the project:
 
 * Love Running project for a basic layout for the code.
-* [W3Schools Navbar] (https://www.w3schools.com/css/css_navbar_horizontal.asp)
+* [W3Schools Navbar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
 * [Favicon](https://favicon.io/emoji-favicons/crossed-swords/)
 * [CSS Background Image](https://www.youtube.com/watch?v=_oFWg_NlKdo)
 * [W3School Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
