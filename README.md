@@ -22,6 +22,18 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ![screenshot](assets/images/amiresponsive01.PNG)
 
+| Screenshot 2 |
+
+![screenshot](assets/images/amiresponsive02.PNG)
+
+| Screenshot 3 |
+
+![screenshot](assets/images/amiresponsive03.PNG)
+
+| Screenshot 4 |
+
+![screenshot](assets/images/amiresponsive04.PNG)
+
 ## User Stories
 
 ### First time Site Users
