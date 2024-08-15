@@ -111,9 +111,31 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ![screenshot](assets/images/lighthousetest.PNG)
 
-
-
 ## Deployment
+
+* Project was deployed as follows:
+
+* Steps:
+
+* Go to the Settings tab of your GitHub repo.
+
+* On the left-hand sidebar, in the Code and automation section, select Pages.
+
+* Make sure:
+
+* Source is set to 'Deploy from Branch'.
+
+* Main branch is selected.
+
+* Folder is set to / (root).
+
+* Under Branch, click Save.
+
+* Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
+
+* On the right-hand side, in the Environments section, click on 'github-pages'.
+
+* Click View deployment to see the live site. The URL will look similar to YOUR-USERNAME.github.io/jack-of-friedberg.
 
 ## Credits
 
