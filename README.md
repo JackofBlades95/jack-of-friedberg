@@ -133,13 +133,17 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 * Below is a list of credits to tools or people that helped me with the project:
 
-* Love Running project for a basic layout for the code.
+* [Love Running](https://github.com/JackofBlades95/love-running) Love Running project for a basic layout for the code.
 * [W3Schools Navbar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
 * [Favicon](https://favicon.io/emoji-favicons/crossed-swords/)
 * [CSS Background Image](https://www.youtube.com/watch?v=_oFWg_NlKdo)
 * [W3School Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 * [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
 * [Footer Placement](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/)
+
+### Media
+
+* All photos in the Jack of Friedberg website are property of Jack Pitz, author of "Jack of Friedberg"
 
 ### Acknowledgements
 
