@@ -42,9 +42,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 * As a new site user, I would like to see pictures of medieval reenactment.
 * As a new site user, I would like to know who Jack of Friedberg is and what he does.
 * As a new site user, I would like to know how to get in contact with Jack of Friedberg, if im interested in reenactment or booking him for an event or show.
-* As new site user, I would like to the site to be easy to navigate.
-
-### Returning Site Users
+* As a new site user, I would like to the site to be easy to navigate.
 
 ## Wireframes
 
@@ -57,6 +55,13 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 ## UX Design
 
 ### Color Scheme
+
+* Colors used:
+
+* #000000 for : header, footer, text.
+* #FFFFFF for : social media icons, header text.
+* #D3D3D3 for : background color.
+* Colors were designed to match the colors of Jack of Friedberg during reeanctment.
 
 ### Typography
 
