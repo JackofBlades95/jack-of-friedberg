@@ -65,6 +65,12 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ### Typography
 
+* I used the google font "Lora" for the website Jack of Friedberg. It is used all throughout the website.
+* I felt it fit well with the theme of reenactment and medieval theme.
+* Font Awesome Icons were used in the footer for social media links.
+* [Google Font Lora](https://fonts.google.com/specimen/Lora)
+* [Font Awesome Website](https://fontawesome.com/)
+
 ## Features
 
 ## Tools & Technologies Used
