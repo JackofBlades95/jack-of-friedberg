@@ -20,7 +20,7 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 | Screenshot 1 |
 
-| Screenshot 2 |
+![screenshot](assets/images/amiresponsive01.PNG)
 
 ## User Stories
 
