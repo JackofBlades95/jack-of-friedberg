@@ -73,6 +73,13 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ## Features
 
+* Jack of Friedberg has an interactive navbar that hovers when cursor is placed over page title.
+* Jack of Friedberg has a home page with a background photo and text welcoming the user to the site.
+* Jack of Friedberg has an about page consisting of photo and text explaining who Jack of Friedberg is and what he does.
+* Jack of Friedberg has a gallery page with photos showcasing events and battles of Jack of Friedberg and his group.
+* Jack of Friedberg has a contact page with a form to contact Jack of Friedberg.
+* Jack of Friedberg has social media links in the footer.
+
 ## Tools & Technologies Used
 
 ## Testing
