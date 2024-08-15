@@ -11,7 +11,7 @@ inquire or contact Jack of Friedberg for battles, tournaments, or for show fight
 
 <details>
 <summary>Click here for table of Contents</summary>
-[Screenshots of Jack of Friedberg] (#screenshots)
+[Screenshots](#screenshots)
 
 </details>
 
@@ -37,6 +37,12 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 ## User Stories
 
 ### First time Site Users
+
+* As a new site user, I would like to know what the site is about.
+* As a new site user, I would like to see pictures of medieval reenactment.
+* As a new site user, I would like to know who Jack of Friedberg is and what he does.
+* As a new site user, I would like to know how to get in contact with Jack of Friedberg, if im interested in reenactment or booking him for an event or show.
+* As new site user, I would like to the site to be easy to navigate.
 
 ### Returning Site Users
 
