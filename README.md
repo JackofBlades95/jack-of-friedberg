@@ -7,14 +7,6 @@
 * The site is targeted towards people who are interested in getting involved in medieval reeactment or looking to specifically
 inquire or contact Jack of Friedberg for battles, tournaments, or for show fighting at events.
 
-## Table of Contents
-
-<details>
-<summary>Click here for table of Contents</summary>
-[Screenshots](#screenshots)
-
-</details>
-
 ## Screenshots
 Below are four screenshots of the different pages that make up Jack of Friedberg, created using the "Am I Responsive" website.
 
@@ -91,6 +83,35 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 
 ## Testing
+
+* Testing was conducted through HTML, CSS, validators and lighthouse.
+* Below the links are screenshots.
+* [W3C HTML](https://validator.w3.org/#validate_by_input)
+* [W3C CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+### Testing Screenshots
+
+| Index.html Test |
+
+![screenshot](assets/images/indextest.PNG)
+
+| About.html Test |
+
+![screenshot](assets/images/abouttest.PNG)
+
+| Gallery.html Test |
+
+![screenshot](assets/images/gallerytest.PNG)
+
+| Contact.html Test |
+
+![screenshot](assets/images/contacttest.PNG)
+
+| Lighthouse Test |
+
+![screenshot](assets/images/lighthousetest.PNG)
+
+
 
 ## Deployment
 
