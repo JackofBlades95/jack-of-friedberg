@@ -38,11 +38,6 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ## Wireframes
 
-### Mobile Wireframes
-
-### Tablet Wireframes
-
-### Desktop Wireframes
 
 ## Design
 
@@ -139,4 +134,18 @@ Below are four screenshots of the different pages that make up Jack of Friedberg
 
 ## Credits
 
+* Below is a list of credits to tools or people that helped me with the project:
+
+* Love Running project for a basic layout for the code.
+* [W3Schools Navbar] (https://www.w3schools.com/css/css_navbar_horizontal.asp)
+* [Favicon](https://favicon.io/emoji-favicons/crossed-swords/)
+* [CSS Background Image](https://www.youtube.com/watch?v=_oFWg_NlKdo)
+* [W3School Media Queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
+* [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
+* [Footer Placement](https://www.30secondsofcode.org/css/s/footer-at-the-bottom/)
+
 ### Acknowledgements
+
+* I would like to thank my mentor Chris Quinn for his recommendations and guidance.
+* I would like to thank Code Institute for the course and support.
+* I would like to thank my family for their help and support.
